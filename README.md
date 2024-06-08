@@ -1,3 +1,4 @@
+An SMS reminder alert system sends automated text messages to students to remind them of important tasks, events, or behaviors. This type of system can be used in various domains, such as healthcare, finance, education, and personal productivity
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
